@@ -5,3 +5,21 @@
 .attribution a {
     color: hsl(228, 45%, 44%);
 }
+
+.question {
+    background: transparent;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    text-align: left;
+    outline: none;
+}
+
+.active, .question:hover {
+    color: hsl(14, 88%, 65%);
+}
+
+.answer {
+    display: none;
+    overflow: hidden;
+}
