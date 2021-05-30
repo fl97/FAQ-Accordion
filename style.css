@@ -47,7 +47,7 @@ body {
     text-align: left;
     outline: none;
     font-family: 'Kumbh Sans', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 .active, .question:hover {
@@ -69,5 +69,5 @@ body {
     max-height: 0;
     transition: max-height .2s ease-out;
     font-family: 'Kumbh Sans', sans-serif;
-    font-size: 15px;
+    font-size: 12px;
 }
